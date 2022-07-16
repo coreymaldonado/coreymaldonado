@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Corey👋
+
+I'm a software developer who has big dreams of building projects that will make a positive impact on the world.
+
+
+“The untold want, by life and land ne'er granted, Now, Voyager, sail thou forth, to seek and find.”
+-Walt Whitman
 
 <!--
 **coreymaldonado/coreymaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
